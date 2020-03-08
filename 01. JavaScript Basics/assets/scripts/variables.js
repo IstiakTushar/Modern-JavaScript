@@ -12,7 +12,7 @@ greeting = 'hello nishi';
 console.log(greeting);
 
 /*
-    Rules for define variables
+    Rules for declare variables
     ~ Can't start with a number
     ~ Must start from letters, _, $ 
 
